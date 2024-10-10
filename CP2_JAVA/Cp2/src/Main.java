@@ -1,3 +1,10 @@
+//INTEGRANTES:
+
+//RM98690 - Julia Azevedo Lins
+//RM99210 - Luís Gustavo Barreto Garrido
+//RM99667 - Victor Hugo Aranda Forte
+//RM99750 - Felipe Cortez
+
 import java.util.Scanner;
 
 public class Main {
